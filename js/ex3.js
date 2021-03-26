@@ -6,7 +6,7 @@ document.querySelector('#btn').addEventListener('click',()=>{
     for (let i = 1; i <= 200; i++) {
         
         resultado=nome;
-        document.write(resultado, '<br>')
+        document.write(resultado+"  ")
     }
 
     
